@@ -1,2 +1,2 @@
 # RoutingRules
-Keeps track of on going routing rules updates
+Keeps track of on going data changes by product - routing rules, configuration, etc.
