@@ -1,0 +1,97 @@
+O.Country,country,expenseTypeCode,comparison,amount,currency,Date,directive,documentType,vatExistence,status,reason
+Any,AU,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,AT,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,BE,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,BG,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,CA,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,CN,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,HR,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,CY,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,CZ,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,DK,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,EE,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FI,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,DE,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GR,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,HU,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,IS,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,IE,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,IL,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,IT,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,JP,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,KR,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,LV,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,LT,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,LU,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,MT,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,NL,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,NO,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,PL,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,PT,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,RO,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,RS,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,SG,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,SK,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,SI,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,ES,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,SE,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,CH,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,TW,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,TR,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,US,Any,LTE,Any,Any,Any,Any,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,4,LTE,Any,Any,Any,Domestic,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,5,LTE,Any,Any,Any,Domestic,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,6,LTE,Any,Any,Any,Domestic,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,12,LTE,Any,Any,Any,Domestic,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,20,LTE,Any,Any,Any,Domestic,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,21,LTE,Any,Any,Any,Domestic,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,22,LTE,Any,Any,Any,Domestic,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,27,LTE,Any,Any,Any,Domestic,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,30,LTE,Any,Any,Any,Domestic,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,31,LTE,Any,Any,Any,Domestic,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,32,LTE,Any,Any,Any,Domestic,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,33,LTE,Any,Any,Any,Domestic,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,34,LTE,Any,Any,Any,Domestic,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,4,LTE,Any,Any,Any,Domestic,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,5,LTE,Any,Any,Any,Domestic,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,6,LTE,Any,Any,Any,Domestic,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,12,LTE,Any,Any,Any,Domestic,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,20,LTE,Any,Any,Any,Domestic,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,21,LTE,Any,Any,Any,Domestic,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,22,LTE,Any,Any,Any,Domestic,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,27,LTE,Any,Any,Any,Domestic,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,30,LTE,Any,Any,Any,Domestic,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,31,LTE,Any,Any,Any,Domestic,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,32,LTE,Any,Any,Any,Domestic,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,33,LTE,Any,Any,Any,Domestic,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,34,LTE,Any,Any,Any,Domestic,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,4,LTE,Any,Any,Any,VAT Registration,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,5,LTE,Any,Any,Any,VAT Registration,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,6,LTE,Any,Any,Any,VAT Registration,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,12,LTE,Any,Any,Any,VAT Registration,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,20,LTE,Any,Any,Any,VAT Registration,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,21,LTE,Any,Any,Any,VAT Registration,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,22,LTE,Any,Any,Any,VAT Registration,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,27,LTE,Any,Any,Any,VAT Registration,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,30,LTE,Any,Any,Any,VAT Registration,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,31,LTE,Any,Any,Any,VAT Registration,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,32,LTE,Any,Any,Any,VAT Registration,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,33,LTE,Any,Any,Any,VAT Registration,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,34,LTE,Any,Any,Any,VAT Registration,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,4,LTE,Any,Any,Any,VAT Registration,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,5,LTE,Any,Any,Any,VAT Registration,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,6,LTE,Any,Any,Any,VAT Registration,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,12,LTE,Any,Any,Any,VAT Registration,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,20,LTE,Any,Any,Any,VAT Registration,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,21,LTE,Any,Any,Any,VAT Registration,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,22,LTE,Any,Any,Any,VAT Registration,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,27,LTE,Any,Any,Any,VAT Registration,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,30,LTE,Any,Any,Any,VAT Registration,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,31,LTE,Any,Any,Any,VAT Registration,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,32,LTE,Any,Any,Any,VAT Registration,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,33,LTE,Any,Any,Any,VAT Registration,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,34,LTE,Any,Any,Any,VAT Registration,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,25,LTE,Any,Any,Any,D13,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,18,LTE,Any,Any,Any,D13,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,FR,18,LTE,Any,Any,Any,D13,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION
+Any,GB,25,LTE,Any,Any,Any,D13,Any,NoVATIndication,Disqualified,MISSING_VAT_INDICATION

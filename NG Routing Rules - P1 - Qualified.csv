@@ -1,0 +1,169 @@
+O.Country,country,expenseTypeCode,comparison,amount,currency,Date,directive,status,reason
+Any,AT,22,LT,400,EUR,Any,D8,Qualified,Qualified
+Any,AT,22,LT,400,EUR,Any,Domestic,Qualified,Qualified
+Any,AT,22,LT,400,EUR,Any,VAT Registration,Qualified,Qualified
+Any,BE,22,LT,125,EUR,Any,Domestic,Qualified,Qualified
+Any,BE,31,LT,125,EUR,Any,Domestic,Qualified,Qualified
+Any,BE,34,LT,125,EUR,Any,Domestic,Qualified,Qualified
+Any,BE,22,LT,125,EUR,Any,VAT Registration,Qualified,Qualified
+Any,BE,31,LT,125,EUR,Any,VAT Registration,Qualified,Qualified
+Any,BE,34,LT,125,EUR,Any,VAT Registration,Qualified,Qualified
+Any,BG,31,LT,100,BGN,Any,D8,Qualified,Qualified
+Any,BG,31,LT,100,BGN,Any,Domestic,Qualified,Qualified
+Any,BG,31,LT,100,BGN,Any,VAT Registration,Qualified,Qualified
+Any,CH,22,LT,400,CHF,Any,Domestic,Qualified,Qualified
+Any,CH,31,LT,400,CHF,Any,Domestic,Qualified,Qualified
+Any,CH,34,LT,400,CHF,Any,Domestic,Qualified,Qualified
+Any,CH,22,LT,400,CHF,Any,VAT Registration,Qualified,Qualified
+Any,CH,31,LT,400,CHF,Any,VAT Registration,Qualified,Qualified
+Any,CH,34,LT,400,CHF,Any,VAT Registration,Qualified,Qualified
+Any,CY,22,LT,85,EUR,Any,D8,Qualified,Qualified
+Any,CY,31,LT,85,EUR,Any,D8,Qualified,Qualified
+Any,CY,34,LT,85,EUR,Any,D8,Qualified,Qualified
+Any,CY,22,LT,85,EUR,Any,Domestic,Qualified,Qualified
+Any,CY,31,LT,85,EUR,Any,Domestic,Qualified,Qualified
+Any,CY,34,LT,85,EUR,Any,Domestic,Qualified,Qualified
+Any,CY,22,LT,85,EUR,Any,VAT Registration,Qualified,Qualified
+Any,CY,31,LT,85,EUR,Any,VAT Registration,Qualified,Qualified
+Any,CY,34,LT,85,EUR,Any,VAT Registration,Qualified,Qualified
+Any,CZ,31,LT,10000,CZK,Any,D8,Qualified,Qualified
+Any,CZ,34,LT,10000,CZK,Any,D8,Qualified,Qualified
+Any,CZ,31,LT,10000,CZK,Any,Domestic,Qualified,Qualified
+Any,CZ,34,LT,10000,CZK,Any,Domestic,Qualified,Qualified
+Any,CZ,31,LT,10000,CZK,Any,VAT Registration,Qualified,Qualified
+Any,CZ,34,LT,10000,CZK,Any,VAT Registration,Qualified,Qualified
+Any,DE,31,LT,150,EUR,Any,D8,Qualified,Qualified
+Any,DE,34,LT,150,EUR,Any,D8,Qualified,Qualified
+Any,DE,31,LT,150,EUR,Any,Domestic,Qualified,Qualified
+Any,DE,34,LT,150,EUR,Any,Domestic,Qualified,Qualified
+Any,DE,31,LT,150,EUR,Any,VAT Registration,Qualified,Qualified
+Any,DE,34,LT,150,EUR,Any,VAT Registration,Qualified,Qualified
+Any,DK,31,LT,5000,DKK,Any,D8,Qualified,Qualified
+Any,DK,34,LT,5000,DKK,Any,D8,Qualified,Qualified
+Any,DK,31,LT,5000,DKK,Any,Domestic,Qualified,Qualified
+Any,DK,34,LT,5000,DKK,Any,Domestic,Qualified,Qualified
+Any,DK,31,LT,5000,DKK,Any,VAT Registration,Qualified,Qualified
+Any,DK,34,LT,5000,DKK,Any,VAT Registration,Qualified,Qualified
+Any,EE,22,LT,160,EUR,Any,D8,Qualified,Qualified
+Any,EE,31,LT,160,EUR,Any,D8,Qualified,Qualified
+Any,EE,34,LT,160,EUR,Any,D8,Qualified,Qualified
+Any,EE,22,LT,160,EUR,Any,Domestic,Qualified,Qualified
+Any,EE,31,LT,160,EUR,Any,Domestic,Qualified,Qualified
+Any,EE,34,LT,160,EUR,Any,Domestic,Qualified,Qualified
+Any,EE,22,LT,160,EUR,Any,VAT Registration,Qualified,Qualified
+Any,EE,31,LT,160,EUR,Any,VAT Registration,Qualified,Qualified
+Any,EE,34,LT,160,EUR,Any,VAT Registration,Qualified,Qualified
+Any,FI,22,LT,250,EUR,Any,D8,Qualified,Qualified
+Any,FI,31,LT,250,EUR,Any,D8,Qualified,Qualified
+Any,FI,22,LT,250,EUR,Any,Domestic,Qualified,Qualified
+Any,FI,31,LT,250,EUR,Any,Domestic,Qualified,Qualified
+Any,FI,22,LT,250,EUR,Any,VAT Registration,Qualified,Qualified
+Any,FI,31,LT,250,EUR,Any,VAT Registration,Qualified,Qualified
+Any,FR,22,LT,150,EUR,Any,D8,Qualified,Qualified
+Any,FR,31,LT,150,EUR,Any,D8,Qualified,Qualified
+Any,FR,34,LT,150,EUR,Any,D8,Qualified,Qualified
+Any,FR,22,LT,150,EUR,Any,Domestic,Qualified,Qualified
+Any,FR,31,LT,150,EUR,Any,Domestic,Qualified,Qualified
+Any,FR,34,LT,150,EUR,Any,Domestic,Qualified,Qualified
+Any,FR,22,LT,150,EUR,Any,VAT Registration,Qualified,Qualified
+Any,FR,31,LT,150,EUR,Any,VAT Registration,Qualified,Qualified
+Any,FR,34,LT,150,EUR,Any,VAT Registration,Qualified,Qualified
+Any,GB,31,LT,250,GBP,Any,D8,Qualified,Qualified
+Any,GB,34,LT,250,GBP,Any,D8,Qualified,Qualified
+Any,GB,31,LT,250,GBP,Any,Domestic,Qualified,Qualified
+Any,GB,34,LT,250,GBP,Any,Domestic,Qualified,Qualified
+Any,GB,31,LT,250,GBP,Any,VAT Registration,Qualified,Qualified
+Any,GB,34,LT,250,GBP,Any,VAT Registration,Qualified,Qualified
+Any,GR,31,LT,50,EUR,Any,D8,Qualified,Qualified
+Any,GR,31,LT,50,EUR,Any,Domestic,Qualified,Qualified
+Any,GR,31,LT,50,EUR,Any,VAT Registration,Qualified,Qualified
+Any,HR,31,LT,700,HRK,Any,D8,Qualified,Qualified
+Any,HR,31,LT,700,HRK,Any,Domestic,Qualified,Qualified
+Any,HR,31,LT,700,HRK,Any,VAT Registration,Qualified,Qualified
+Any,IE,31,LT,100,EUR,Any,D8,Qualified,Qualified
+Any,IE,31,LT,100,EUR,Any,Domestic,Qualified,Qualified
+Any,IE,31,LT,100,EUR,Any,VAT Registration,Qualified,Qualified
+Any,IT,31,LT,0,EUR,Any,D8,Qualified,Qualified
+Any,IT,34,LT,0,EUR,Any,D8,Qualified,Qualified
+Any,IT,31,LT,0,EUR,Any,Domestic,Qualified,Qualified
+Any,IT,34,LT,0,EUR,Any,Domestic,Qualified,Qualified
+Any,IT,31,LT,0,EUR,Any,VAT Registration,Qualified,Qualified
+Any,IT,34,LT,0,EUR,Any,VAT Registration,Qualified,Qualified
+Any,LT,22,LT,150,EUR,Any,D8,Qualified,Qualified
+Any,LT,31,LT,150,EUR,Any,D8,Qualified,Qualified
+Any,LT,22,LT,150,EUR,Any,Domestic,Qualified,Qualified
+Any,LT,31,LT,150,EUR,Any,Domestic,Qualified,Qualified
+Any,LT,22,LT,150,EUR,Any,VAT Registration,Qualified,Qualified
+Any,LT,31,LT,150,EUR,Any,VAT Registration,Qualified,Qualified
+Any,LU,22,LT,100,EUR,Any,D8,Qualified,Qualified
+Any,LU,31,LT,100,EUR,Any,D8,Qualified,Qualified
+Any,LU,34,LT,100,EUR,Any,D8,Qualified,Qualified
+Any,LU,22,LT,100,EUR,Any,Domestic,Qualified,Qualified
+Any,LU,31,LT,100,EUR,Any,Domestic,Qualified,Qualified
+Any,LU,34,LT,100,EUR,Any,Domestic,Qualified,Qualified
+Any,LU,22,LT,100,EUR,Any,VAT Registration,Qualified,Qualified
+Any,LU,31,LT,100,EUR,Any,VAT Registration,Qualified,Qualified
+Any,LU,34,LT,100,EUR,Any,VAT Registration,Qualified,Qualified
+Any,LV,22,LT,180,EUR,Any,D8,Qualified,Qualified
+Any,LV,31,LT,180,EUR,Any,D8,Qualified,Qualified
+Any,LV,34,LT,180,EUR,Any,D8,Qualified,Qualified
+Any,LV,22,LT,180,EUR,Any,Domestic,Qualified,Qualified
+Any,LV,31,LT,180,EUR,Any,Domestic,Qualified,Qualified
+Any,LV,34,LT,180,EUR,Any,Domestic,Qualified,Qualified
+Any,LV,22,LT,180,EUR,Any,VAT Registration,Qualified,Qualified
+Any,LV,31,LT,180,EUR,Any,VAT Registration,Qualified,Qualified
+Any,LV,34,LT,180,EUR,Any,VAT Registration,Qualified,Qualified
+Any,MT,31,LT,0,EUR,Any,D8,Qualified,Qualified
+Any,MT,31,LT,0,EUR,Any,Domestic,Qualified,Qualified
+Any,MT,31,LT,0,EUR,Any,VAT Registration,Qualified,Qualified
+Any,NL,22,LT,100,EUR,Any,D8,Qualified,Qualified
+Any,NL,31,LT,100,EUR,Any,D8,Qualified,Qualified
+Any,NL,34,LT,100,EUR,Any,D8,Qualified,Qualified
+Any,NL,22,LT,100,EUR,Any,Domestic,Qualified,Qualified
+Any,NL,31,LT,100,EUR,Any,Domestic,Qualified,Qualified
+Any,NL,34,LT,100,EUR,Any,Domestic,Qualified,Qualified
+Any,NL,22,LT,100,EUR,Any,VAT Registration,Qualified,Qualified
+Any,NL,31,LT,100,EUR,Any,VAT Registration,Qualified,Qualified
+Any,NL,34,LT,100,EUR,Any,VAT Registration,Qualified,Qualified
+Any,NO,22,LT,2200,NOK,Any,D8,Qualified,Qualified
+Any,NO,22,LT,2200,NOK,Any,Domestic,Qualified,Qualified
+Any,NO,22,LT,2200,NOK,Any,VAT Registration,Qualified,Qualified
+Any,PL,22,LT,450,PLN,Any,D8,Qualified,Qualified
+Any,PL,31,LT,450,PLN,Any,D8,Qualified,Qualified
+Any,PL,34,LT,450,PLN,Any,D8,Qualified,Qualified
+Any,PL,22,LT,450,PLN,Any,Domestic,Qualified,Qualified
+Any,PL,31,LT,450,PLN,Any,Domestic,Qualified,Qualified
+Any,PL,34,LT,450,PLN,Any,Domestic,Qualified,Qualified
+Any,PL,22,LT,450,PLN,Any,VAT Registration,Qualified,Qualified
+Any,PL,31,LT,450,PLN,Any,VAT Registration,Qualified,Qualified
+Any,PL,34,LT,450,PLN,Any,VAT Registration,Qualified,Qualified
+Any,RO,22,LT,1110,RON,Any,D8,Qualified,Qualified
+Any,RO,34,LT,1110,RON,Any,D8,Qualified,Qualified
+Any,RO,22,LT,1110,RON,Any,Domestic,Qualified,Qualified
+Any,RO,34,LT,1110,RON,Any,Domestic,Qualified,Qualified
+Any,RO,22,LT,1110,RON,Any,VAT Registration,Qualified,Qualified
+Any,RO,34,LT,1110,RON,Any,VAT Registration,Qualified,Qualified
+Any,SE,22,LT,4000,SEK,Any,D8,Qualified,Qualified
+Any,SE,31,LT,4000,SEK,Any,D8,Qualified,Qualified
+Any,SE,34,LT,4000,SEK,Any,D8,Qualified,Qualified
+Any,SE,22,LT,4000,SEK,Any,Domestic,Qualified,Qualified
+Any,SE,31,LT,4000,SEK,Any,Domestic,Qualified,Qualified
+Any,SE,34,LT,4000,SEK,Any,Domestic,Qualified,Qualified
+Any,SE,22,LT,4000,SEK,Any,VAT Registration,Qualified,Qualified
+Any,SE,31,LT,4000,SEK,Any,VAT Registration,Qualified,Qualified
+Any,SE,34,LT,4000,SEK,Any,VAT Registration,Qualified,Qualified
+Any,SI,22,LT,250,EUR,Any,D8,Qualified,Qualified
+Any,SI,31,LT,250,EUR,Any,D8,Qualified,Qualified
+Any,SI,22,LT,250,EUR,Any,Domestic,Qualified,Qualified
+Any,SI,31,LT,250,EUR,Any,Domestic,Qualified,Qualified
+Any,SI,22,LT,250,EUR,Any,VAT Registration,Qualified,Qualified
+Any,SI,31,LT,250,EUR,Any,VAT Registration,Qualified,Qualified
+Any,SK,22,LT,1000,EUR,Any,D8,Qualified,Qualified
+Any,SK,31,LT,1000,EUR,Any,D8,Qualified,Qualified
+Any,SK,34,LT,1000,EUR,Any,D8,Qualified,Qualified
+Any,SK,22,LT,1000,EUR,Any,Domestic,Qualified,Qualified
+Any,SK,31,LT,1000,EUR,Any,Domestic,Qualified,Qualified
+Any,SK,34,LT,1000,EUR,Any,Domestic,Qualified,Qualified
+Any,SK,22,LT,1000,EUR,Any,VAT Registration,Qualified,Qualified
+Any,SK,31,LT,1000,EUR,Any,VAT Registration,Qualified,Qualified
+Any,SK,34,LT,1000,EUR,Any,VAT Registration,Qualified,Qualified

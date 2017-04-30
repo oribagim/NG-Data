@@ -1,0 +1,413 @@
+O.Country,country,expenseTypeCode,comparison,amount,currency,Date,directive,documentType,vatExistence,status,reason
+Any,AT,27,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,AT,22,LTE,Any,Any,Any,D8,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,AT,22,LTE,Any,Any,Any,D8,Taxi Receipt,Exists,Qualified,Qualified
+Any,HR,25,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,HR,25,LTE,Any,Any,Any,D8,Restaurant bill,Exists,Qualified,Qualified
+Any,CY,18,LTE,Any,Any,Any,D8,Fuel Receipt,Exists,Qualified,Qualified
+Any,CY,31,LTE,Any,Any,Any,D8,Parking Ticket,Exists,Qualified,Qualified
+Any,CY,22,LTE,Any,Any,Any,D8,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,CY,22,LTE,Any,Any,Any,D8,Taxi Receipt,Exists,Qualified,Qualified
+Any,CY,25,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,CY,25,LTE,Any,Any,Any,D8,Restaurant bill,Exists,Qualified,Qualified
+Any,CZ,18,LTE,Any,Any,Any,D8,Fuel Receipt,Exists,Qualified,Qualified
+Any,CZ,31,LTE,Any,Any,Any,D8,Parking Ticket,Exists,Qualified,Qualified
+Any,CZ,31,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,CZ,22,LTE,Any,Any,Any,D8,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,CZ,22,LTE,Any,Any,Any,D8,Taxi Receipt,Exists,Qualified,Qualified
+Any,CZ,34,LTE,Any,Any,Any,D8,Toll Ticket,Exists,Qualified,Qualified
+Any,DK,18,LTE,Any,Any,Any,D8,Fuel Receipt,Exists,Qualified,Qualified
+Any,DK,31,LTE,Any,Any,Any,D8,Parking Ticket,Exists,Qualified,Qualified
+Any,DK,25,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,DK,25,LTE,Any,Any,Any,D8,Restaurant bill,Exists,Qualified,Qualified
+Any,DK,34,LTE,Any,Any,Any,D8,Toll Ticket,Exists,Qualified,Qualified
+Any,EE,4,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,EE,18,LTE,Any,Any,Any,D8,Fuel Receipt,Exists,Qualified,Qualified
+Any,EE,31,LTE,Any,Any,Any,D8,Parking Ticket,Exists,Qualified,Qualified
+Any,EE,31,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,EE,22,LTE,Any,Any,Any,D8,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,EE,22,LTE,Any,Any,Any,D8,Taxi Receipt,Exists,Qualified,Qualified
+Any,EE,34,LTE,Any,Any,Any,D8,Toll Ticket,Exists,Qualified,Qualified
+Any,FI,4,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,FI,18,LTE,Any,Any,Any,D8,Fuel Receipt,Exists,Qualified,Qualified
+Any,FI,31,LTE,Any,Any,Any,D8,Parking Ticket,Exists,Qualified,Qualified
+Any,FI,31,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,FI,22,LTE,Any,Any,Any,D8,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,FI,22,LTE,Any,Any,Any,D8,Taxi Receipt,Exists,Qualified,Qualified
+Any,FR,18,LTE,Any,Any,Any,D8,Fuel Receipt,Exists,Qualified,Qualified
+Any,FR,31,LTE,Any,Any,Any,D8,Parking Ticket,Exists,Qualified,Qualified
+Any,FR,25,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,FR,25,LTE,Any,Any,Any,D8,Restaurant bill,Exists,Qualified,Qualified
+Any,FR,34,LTE,Any,Any,Any,D8,Toll Ticket,Exists,Qualified,Qualified
+Any,DE,4,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,DE,31,LTE,Any,Any,Any,D8,Parking Ticket,Exists,Qualified,Qualified
+Any,DE,22,LTE,Any,Any,Any,D8,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,DE,22,LTE,Any,Any,Any,D8,Taxi Receipt,Exists,Qualified,Qualified
+Any,DE,25,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,DE,25,LTE,Any,Any,Any,D8,Restaurant bill,Exists,Qualified,Qualified
+Any,DE,34,LTE,Any,Any,Any,D8,Toll Ticket,Exists,Qualified,Qualified
+Any,GR,31,LTE,Any,Any,Any,D8,Parking Ticket,Exists,Qualified,Qualified
+Any,GR,31,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,IE,18,LTE,Any,Any,Any,D8,Fuel Receipt,Exists,Qualified,Qualified
+Any,IE,31,LTE,Any,Any,Any,D8,Parking Ticket,Exists,Qualified,Qualified
+Any,IE,31,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,LV,18,LTE,Any,Any,Any,D8,Fuel Receipt,Exists,Qualified,Qualified
+Any,LV,31,LTE,Any,Any,Any,D8,Parking Ticket,Exists,Qualified,Qualified
+Any,LV,31,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,LV,22,LTE,Any,Any,Any,D8,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,LV,22,LTE,Any,Any,Any,D8,Taxi Receipt,Exists,Qualified,Qualified
+Any,LV,34,LTE,Any,Any,Any,D8,Toll Ticket,Exists,Qualified,Qualified
+Any,LT,18,LTE,Any,Any,Any,D8,Fuel Receipt,Exists,Qualified,Qualified
+Any,LT,31,LTE,Any,Any,Any,D8,Parking Ticket,Exists,Qualified,Qualified
+Any,LT,22,LTE,Any,Any,Any,D8,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,LT,22,LTE,Any,Any,Any,D8,Taxi Receipt,Exists,Qualified,Qualified
+Any,LT,25,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,LT,25,LTE,Any,Any,Any,D8,Restaurant bill,Exists,Qualified,Qualified
+Any,LU,18,LTE,Any,Any,Any,D8,Fuel Receipt,Exists,Qualified,Qualified
+Any,LU,31,LTE,Any,Any,Any,D8,Parking Ticket,Exists,Qualified,Qualified
+Any,LU,22,LTE,Any,Any,Any,D8,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,LU,22,LTE,Any,Any,Any,D8,Taxi Receipt,Exists,Qualified,Qualified
+Any,LU,25,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,LU,25,LTE,Any,Any,Any,D8,Restaurant bill,Exists,Qualified,Qualified
+Any,LU,34,LTE,Any,Any,Any,D8,Toll Ticket,Exists,Qualified,Qualified
+Any,NL,4,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,NL,18,LTE,Any,Any,Any,D8,Fuel Receipt,Exists,Qualified,Qualified
+Any,NL,31,LTE,Any,Any,Any,D8,Parking Ticket,Exists,Qualified,Qualified
+Any,NL,31,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,NL,22,LTE,Any,Any,Any,D8,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,NL,22,LTE,Any,Any,Any,D8,Taxi Receipt,Exists,Qualified,Qualified
+Any,NL,34,LTE,Any,Any,Any,D8,Toll Ticket,Exists,Qualified,Qualified
+Any,PL,4,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,PL,18,LTE,Any,Any,Any,D8,Fuel Receipt,Exists,Qualified,Qualified
+Any,PL,31,LTE,Any,Any,Any,D8,Parking Ticket,Exists,Qualified,Qualified
+Any,PL,31,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,PL,22,LTE,Any,Any,Any,D8,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,PL,22,LTE,Any,Any,Any,D8,Taxi Receipt,Exists,Qualified,Qualified
+Any,PL,34,LTE,Any,Any,Any,D8,Toll Ticket,Exists,Qualified,Qualified
+Any,PT,18,LTE,Any,Any,Any,D8,Fuel Receipt,Exists,Qualified,Qualified
+Any,RO,18,LTE,Any,Any,Any,D8,Fuel Receipt,Exists,Qualified,Qualified
+Any,RO,31,LTE,Any,Any,Any,D8,Parking Ticket,Exists,Qualified,Qualified
+Any,RO,31,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,RO,22,LTE,Any,Any,Any,D8,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,RO,22,LTE,Any,Any,Any,D8,Taxi Receipt,Exists,Qualified,Qualified
+Any,RO,34,LTE,Any,Any,Any,D8,Toll Ticket,Exists,Qualified,Qualified
+Any,SK,18,LTE,Any,Any,Any,D8,Fuel Receipt,Exists,Qualified,Qualified
+Any,SK,31,LTE,Any,Any,Any,D8,Parking Ticket,Exists,Qualified,Qualified
+Any,SK,31,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,SK,22,LTE,Any,Any,Any,D8,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,SK,22,LTE,Any,Any,Any,D8,Taxi Receipt,Exists,Qualified,Qualified
+Any,SK,34,LTE,Any,Any,Any,D8,Toll Ticket,Exists,Qualified,Qualified
+Any,SI,31,LTE,Any,Any,Any,D8,Parking Ticket,Exists,Qualified,Qualified
+Any,SI,31,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,SI,22,LTE,Any,Any,Any,D8,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,SI,22,LTE,Any,Any,Any,D8,Taxi Receipt,Exists,Qualified,Qualified
+Any,SE,4,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,SE,18,LTE,Any,Any,Any,D8,Fuel Receipt,Exists,Qualified,Qualified
+Any,SE,31,LTE,Any,Any,Any,D8,Parking Ticket,Exists,Qualified,Qualified
+Any,SE,31,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,SE,22,LTE,Any,Any,Any,D8,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,SE,22,LTE,Any,Any,Any,D8,Taxi Receipt,Exists,Qualified,Qualified
+Any,SE,34,LTE,Any,Any,Any,D8,Toll Ticket,Exists,Qualified,Qualified
+Any,GB,18,LTE,Any,Any,Any,D8,Fuel Receipt,Exists,Qualified,Qualified
+Any,GB,5,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,GB,31,LTE,Any,Any,Any,D8,Parking Ticket,Exists,Qualified,Qualified
+Any,GB,31,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,GB,25,LTE,Any,Any,Any,D8,Receipt,Exists,Qualified,Qualified
+Any,GB,25,LTE,Any,Any,Any,D8,Restaurant bill,Exists,Qualified,Qualified
+Any,GB,34,LTE,Any,Any,Any,D8,Toll Ticket,Exists,Qualified,Qualified
+Any,AT,27,LTE,Any,Any,Any,Domestic,Receipt,Exists,Qualified,Qualified
+Any,AT,22,LTE,Any,Any,Any,Domestic,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,AT,22,LTE,Any,Any,Any,Domestic,Taxi Receipt,Exists,Qualified,Qualified
+Any,BE,18,LTE,Any,Any,Any,Domestic,Fuel Receipt,Exists,Qualified,Qualified
+Any,BE,31,LTE,Any,Any,Any,Domestic,Parking Ticket,Exists,Qualified,Qualified
+Any,BE,31,LTE,Any,Any,Any,Domestic,Receipt,Exists,Qualified,Qualified
+Any,BE,22,LTE,Any,Any,Any,Domestic,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,BE,22,LTE,Any,Any,Any,Domestic,Taxi Receipt,Exists,Qualified,Qualified
+Any,BE,34,LTE,Any,Any,Any,Domestic,Toll Ticket,Exists,Qualified,Qualified
+Any,HR,25,LTE,Any,Any,Any,Domestic,Receipt,Exists,Qualified,Qualified
+Any,HR,25,LTE,Any,Any,Any,Domestic,Restaurant bill,Exists,Qualified,Qualified
+Any,CY,18,LTE,Any,Any,Any,Domestic,Fuel Receipt,Exists,Qualified,Qualified
+Any,CY,31,LTE,Any,Any,Any,Domestic,Parking Ticket,Exists,Qualified,Qualified
+Any,CY,22,LTE,Any,Any,Any,Domestic,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,CY,22,LTE,Any,Any,Any,Domestic,Taxi Receipt,Exists,Qualified,Qualified
+Any,CY,25,LTE,Any,Any,Any,Domestic,Receipt,Exists,Qualified,Qualified
+Any,CY,25,LTE,Any,Any,Any,Domestic,Restaurant bill,Exists,Qualified,Qualified
+Any,CZ,18,LTE,Any,Any,Any,Domestic,Fuel Receipt,Exists,Qualified,Qualified
+Any,CZ,31,LTE,Any,Any,Any,Domestic,Parking Ticket,Exists,Qualified,Qualified
+Any,CZ,31,LTE,Any,Any,Any,Domestic,Receipt,Exists,Qualified,Qualified
+Any,CZ,22,LTE,Any,Any,Any,Domestic,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,CZ,22,LTE,Any,Any,Any,Domestic,Taxi Receipt,Exists,Qualified,Qualified
+Any,CZ,34,LTE,Any,Any,Any,Domestic,Toll Ticket,Exists,Qualified,Qualified
+Any,DK,18,LTE,Any,Any,Any,Domestic,Fuel Receipt,Exists,Qualified,Qualified
+Any,DK,31,LTE,Any,Any,Any,Domestic,Parking Ticket,Exists,Qualified,Qualified
+Any,DK,25,LTE,Any,Any,Any,Domestic,Receipt,Exists,Qualified,Qualified
+Any,DK,25,LTE,Any,Any,Any,Domestic,Restaurant bill,Exists,Qualified,Qualified
+Any,DK,34,LTE,Any,Any,Any,Domestic,Toll Ticket,Exists,Qualified,Qualified
+Any,EE,18,LTE,Any,Any,Any,Domestic,Fuel Receipt,Exists,Qualified,Qualified
+Any,EE,31,LTE,Any,Any,Any,Domestic,Parking Ticket,Exists,Qualified,Qualified
+Any,EE,31,LTE,Any,Any,Any,Domestic,Receipt,Exists,Qualified,Qualified
+Any,EE,22,LTE,Any,Any,Any,Domestic,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,EE,22,LTE,Any,Any,Any,Domestic,Taxi Receipt,Exists,Qualified,Qualified
+Any,EE,34,LTE,Any,Any,Any,Domestic,Toll Ticket,Exists,Qualified,Qualified
+Any,FI,18,LTE,Any,Any,Any,Domestic,Fuel Receipt,Exists,Qualified,Qualified
+Any,FI,31,LTE,Any,Any,Any,Domestic,Parking Ticket,Exists,Qualified,Qualified
+Any,FI,31,LTE,Any,Any,Any,Domestic,Receipt,Exists,Qualified,Qualified
+Any,FI,22,LTE,Any,Any,Any,Domestic,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,FI,22,LTE,Any,Any,Any,Domestic,Taxi Receipt,Exists,Qualified,Qualified
+Any,FR,18,LTE,Any,Any,Any,Domestic,Fuel Receipt,Any,Qualified,Qualified
+Any,FR,31,LTE,Any,Any,Any,Domestic,Parking Ticket,Exists,Qualified,Qualified
+Any,FR,25,LTE,Any,Any,Any,Domestic,Receipt,Any,Qualified,Qualified
+Any,FR,25,LTE,Any,Any,Any,Domestic,Restaurant bill,Any,Qualified,Qualified
+Any,FR,34,LTE,Any,Any,Any,Domestic,Toll Ticket,Exists,Qualified,Qualified
+Any,DE,31,LTE,Any,Any,Any,Domestic,Parking Ticket,Exists,Qualified,Qualified
+Any,DE,22,LTE,Any,Any,Any,Domestic,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,DE,22,LTE,Any,Any,Any,Domestic,Taxi Receipt,Exists,Qualified,Qualified
+Any,DE,25,LTE,Any,Any,Any,Domestic,Receipt,Exists,Qualified,Qualified
+Any,DE,25,LTE,Any,Any,Any,Domestic,Restaurant bill,Exists,Qualified,Qualified
+Any,DE,34,LTE,Any,Any,Any,Domestic,Toll Ticket,Exists,Qualified,Qualified
+Any,GR,31,LTE,Any,Any,Any,Domestic,Parking Ticket,Exists,Qualified,Qualified
+Any,GR,31,LTE,Any,Any,Any,Domestic,Receipt,Exists,Qualified,Qualified
+Any,IE,18,LTE,Any,Any,Any,Domestic,Fuel Receipt,Exists,Qualified,Qualified
+Any,IE,31,LTE,Any,Any,Any,Domestic,Parking Ticket,Exists,Qualified,Qualified
+Any,IE,31,LTE,Any,Any,Any,Domestic,Receipt,Exists,Qualified,Qualified
+Any,LV,18,LTE,Any,Any,Any,Domestic,Fuel Receipt,Exists,Qualified,Qualified
+Any,LV,31,LTE,Any,Any,Any,Domestic,Parking Ticket,Exists,Qualified,Qualified
+Any,LV,31,LTE,Any,Any,Any,Domestic,Receipt,Exists,Qualified,Qualified
+Any,LV,22,LTE,Any,Any,Any,Domestic,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,LV,22,LTE,Any,Any,Any,Domestic,Taxi Receipt,Exists,Qualified,Qualified
+Any,LV,34,LTE,Any,Any,Any,Domestic,Toll Ticket,Exists,Qualified,Qualified
+Any,LT,18,LTE,Any,Any,Any,Domestic,Fuel Receipt,Exists,Qualified,Qualified
+Any,LT,31,LTE,Any,Any,Any,Domestic,Parking Ticket,Exists,Qualified,Qualified
+Any,LT,22,LTE,Any,Any,Any,Domestic,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,LT,22,LTE,Any,Any,Any,Domestic,Taxi Receipt,Exists,Qualified,Qualified
+Any,LT,25,LTE,Any,Any,Any,Domestic,Receipt,Exists,Qualified,Qualified
+Any,LT,25,LTE,Any,Any,Any,Domestic,Restaurant bill,Exists,Qualified,Qualified
+Any,LU,18,LTE,Any,Any,Any,Domestic,Fuel Receipt,Exists,Qualified,Qualified
+Any,LU,31,LTE,Any,Any,Any,Domestic,Parking Ticket,Exists,Qualified,Qualified
+Any,LU,22,LTE,Any,Any,Any,Domestic,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,LU,22,LTE,Any,Any,Any,Domestic,Taxi Receipt,Exists,Qualified,Qualified
+Any,LU,25,LTE,Any,Any,Any,Domestic,Receipt,Exists,Qualified,Qualified
+Any,LU,25,LTE,Any,Any,Any,Domestic,Restaurant bill,Exists,Qualified,Qualified
+Any,LU,34,LTE,Any,Any,Any,Domestic,Toll Ticket,Exists,Qualified,Qualified
+Any,NL,18,LTE,Any,Any,Any,Domestic,Fuel Receipt,Exists,Qualified,Qualified
+Any,NL,31,LTE,Any,Any,Any,Domestic,Parking Ticket,Exists,Qualified,Qualified
+Any,NL,31,LTE,Any,Any,Any,Domestic,Receipt,Exists,Qualified,Qualified
+Any,NL,22,LTE,Any,Any,Any,Domestic,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,NL,22,LTE,Any,Any,Any,Domestic,Taxi Receipt,Exists,Qualified,Qualified
+Any,NL,34,LTE,Any,Any,Any,Domestic,Toll Ticket,Exists,Qualified,Qualified
+Any,NO,22,LTE,Any,Any,Any,Domestic,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,NO,22,LTE,Any,Any,Any,Domestic,Taxi Receipt,Exists,Qualified,Qualified
+Any,NO,34,LTE,Any,Any,Any,Domestic,Receipt,Exists,Qualified,Qualified
+Any,NO,34,LTE,Any,Any,Any,Domestic,Toll Ticket,Exists,Qualified,Qualified
+Any,PL,18,LTE,Any,Any,Any,Domestic,Fuel Receipt,Exists,Qualified,Qualified
+Any,PL,31,LTE,Any,Any,Any,Domestic,Parking Ticket,Exists,Qualified,Qualified
+Any,PL,31,LTE,Any,Any,Any,Domestic,Receipt,Exists,Qualified,Qualified
+Any,PL,22,LTE,Any,Any,Any,Domestic,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,PL,22,LTE,Any,Any,Any,Domestic,Taxi Receipt,Exists,Qualified,Qualified
+Any,PL,34,LTE,Any,Any,Any,Domestic,Toll Ticket,Exists,Qualified,Qualified
+Any,PT,18,LTE,Any,Any,Any,Domestic,Fuel Receipt,Exists,Qualified,Qualified
+Any,RO,18,LTE,Any,Any,Any,Domestic,Fuel Receipt,Exists,Qualified,Qualified
+Any,RO,31,LTE,Any,Any,Any,Domestic,Parking Ticket,Exists,Qualified,Qualified
+Any,RO,31,LTE,Any,Any,Any,Domestic,Receipt,Exists,Qualified,Qualified
+Any,RO,22,LTE,Any,Any,Any,Domestic,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,RO,22,LTE,Any,Any,Any,Domestic,Taxi Receipt,Exists,Qualified,Qualified
+Any,RO,34,LTE,Any,Any,Any,Domestic,Toll Ticket,Exists,Qualified,Qualified
+Any,SK,18,LTE,Any,Any,Any,Domestic,Fuel Receipt,Exists,Qualified,Qualified
+Any,SK,31,LTE,Any,Any,Any,Domestic,Parking Ticket,Exists,Qualified,Qualified
+Any,SK,31,LTE,Any,Any,Any,Domestic,Receipt,Exists,Qualified,Qualified
+Any,SK,22,LTE,Any,Any,Any,Domestic,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,SK,22,LTE,Any,Any,Any,Domestic,Taxi Receipt,Exists,Qualified,Qualified
+Any,SK,34,LTE,Any,Any,Any,Domestic,Toll Ticket,Exists,Qualified,Qualified
+Any,SI,31,LTE,Any,Any,Any,Domestic,Parking Ticket,Exists,Qualified,Qualified
+Any,SI,31,LTE,Any,Any,Any,Domestic,Receipt,Exists,Qualified,Qualified
+Any,SI,22,LTE,Any,Any,Any,Domestic,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,SI,22,LTE,Any,Any,Any,Domestic,Taxi Receipt,Exists,Qualified,Qualified
+Any,SE,18,LTE,Any,Any,Any,Domestic,Fuel Receipt,Exists,Qualified,Qualified
+Any,SE,31,LTE,Any,Any,Any,Domestic,Parking Ticket,Exists,Qualified,Qualified
+Any,SE,31,LTE,Any,Any,Any,Domestic,Receipt,Exists,Qualified,Qualified
+Any,SE,22,LTE,Any,Any,Any,Domestic,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,SE,22,LTE,Any,Any,Any,Domestic,Taxi Receipt,Exists,Qualified,Qualified
+Any,SE,34,LTE,Any,Any,Any,Domestic,Toll Ticket,Exists,Qualified,Qualified
+Any,CH,18,LTE,Any,Any,Any,Domestic,Fuel Receipt,Exists,Qualified,Qualified
+Any,CH,31,LTE,Any,Any,Any,Domestic,Parking Ticket,Exists,Qualified,Qualified
+Any,CH,22,LTE,Any,Any,Any,Domestic,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,CH,22,LTE,Any,Any,Any,Domestic,Taxi Receipt,Exists,Qualified,Qualified
+Any,CH,25,LTE,Any,Any,Any,Domestic,Receipt,Exists,Qualified,Qualified
+Any,CH,25,LTE,Any,Any,Any,Domestic,Restaurant bill,Exists,Qualified,Qualified
+Any,CH,34,LTE,Any,Any,Any,Domestic,Toll Ticket,Exists,Qualified,Qualified
+Any,GB,18,LTE,Any,Any,Any,Domestic,Fuel Receipt,Any,Qualified,Qualified
+Any,GB,31,LTE,Any,Any,Any,Domestic,Parking Ticket,Exists,Qualified,Qualified
+Any,GB,31,LTE,Any,Any,Any,Domestic,Receipt,Exists,Qualified,Qualified
+Any,GB,25,LTE,Any,Any,Any,Domestic,Receipt,Any,Qualified,Qualified
+Any,GB,25,LTE,Any,Any,Any,Domestic,Restaurant bill,Any,Qualified,Qualified
+Any,GB,34,LTE,Any,Any,Any,Domestic,Toll Ticket,Exists,Qualified,Qualified
+Any,AT,27,LTE,Any,Any,Any,VAT Registration,Receipt,Exists,Qualified,Qualified
+Any,AT,22,LTE,Any,Any,Any,VAT Registration,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,AT,22,LTE,Any,Any,Any,VAT Registration,Taxi Receipt,Exists,Qualified,Qualified
+Any,BE,18,LTE,Any,Any,Any,VAT Registration,Fuel Receipt,Exists,Qualified,Qualified
+Any,BE,31,LTE,Any,Any,Any,VAT Registration,Parking Ticket,Exists,Qualified,Qualified
+Any,BE,31,LTE,Any,Any,Any,VAT Registration,Receipt,Exists,Qualified,Qualified
+Any,BE,22,LTE,Any,Any,Any,VAT Registration,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,BE,22,LTE,Any,Any,Any,VAT Registration,Taxi Receipt,Exists,Qualified,Qualified
+Any,BE,34,LTE,Any,Any,Any,VAT Registration,Toll Ticket,Exists,Qualified,Qualified
+Any,HR,25,LTE,Any,Any,Any,VAT Registration,Receipt,Exists,Qualified,Qualified
+Any,HR,25,LTE,Any,Any,Any,VAT Registration,Restaurant bill,Exists,Qualified,Qualified
+Any,CY,18,LTE,Any,Any,Any,VAT Registration,Fuel Receipt,Exists,Qualified,Qualified
+Any,CY,31,LTE,Any,Any,Any,VAT Registration,Parking Ticket,Exists,Qualified,Qualified
+Any,CY,22,LTE,Any,Any,Any,VAT Registration,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,CY,22,LTE,Any,Any,Any,VAT Registration,Taxi Receipt,Exists,Qualified,Qualified
+Any,CY,25,LTE,Any,Any,Any,VAT Registration,Receipt,Exists,Qualified,Qualified
+Any,CY,25,LTE,Any,Any,Any,VAT Registration,Restaurant bill,Exists,Qualified,Qualified
+Any,CZ,18,LTE,Any,Any,Any,VAT Registration,Fuel Receipt,Exists,Qualified,Qualified
+Any,CZ,31,LTE,Any,Any,Any,VAT Registration,Parking Ticket,Exists,Qualified,Qualified
+Any,CZ,31,LTE,Any,Any,Any,VAT Registration,Receipt,Exists,Qualified,Qualified
+Any,CZ,22,LTE,Any,Any,Any,VAT Registration,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,CZ,22,LTE,Any,Any,Any,VAT Registration,Taxi Receipt,Exists,Qualified,Qualified
+Any,CZ,34,LTE,Any,Any,Any,VAT Registration,Toll Ticket,Exists,Qualified,Qualified
+Any,DK,18,LTE,Any,Any,Any,VAT Registration,Fuel Receipt,Exists,Qualified,Qualified
+Any,DK,31,LTE,Any,Any,Any,VAT Registration,Parking Ticket,Exists,Qualified,Qualified
+Any,DK,25,LTE,Any,Any,Any,VAT Registration,Receipt,Exists,Qualified,Qualified
+Any,DK,25,LTE,Any,Any,Any,VAT Registration,Restaurant bill,Exists,Qualified,Qualified
+Any,DK,34,LTE,Any,Any,Any,VAT Registration,Toll Ticket,Exists,Qualified,Qualified
+Any,EE,18,LTE,Any,Any,Any,VAT Registration,Fuel Receipt,Exists,Qualified,Qualified
+Any,EE,31,LTE,Any,Any,Any,VAT Registration,Parking Ticket,Exists,Qualified,Qualified
+Any,EE,31,LTE,Any,Any,Any,VAT Registration,Receipt,Exists,Qualified,Qualified
+Any,EE,22,LTE,Any,Any,Any,VAT Registration,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,EE,22,LTE,Any,Any,Any,VAT Registration,Taxi Receipt,Exists,Qualified,Qualified
+Any,EE,34,LTE,Any,Any,Any,VAT Registration,Toll Ticket,Exists,Qualified,Qualified
+Any,FI,18,LTE,Any,Any,Any,VAT Registration,Fuel Receipt,Exists,Qualified,Qualified
+Any,FI,31,LTE,Any,Any,Any,VAT Registration,Parking Ticket,Exists,Qualified,Qualified
+Any,FI,31,LTE,Any,Any,Any,VAT Registration,Receipt,Exists,Qualified,Qualified
+Any,FI,22,LTE,Any,Any,Any,VAT Registration,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,FI,22,LTE,Any,Any,Any,VAT Registration,Taxi Receipt,Exists,Qualified,Qualified
+Any,FR,18,LTE,Any,Any,Any,VAT Registration,Fuel Receipt,Any,Qualified,Qualified
+Any,FR,31,LTE,Any,Any,Any,VAT Registration,Parking Ticket,Exists,Qualified,Qualified
+Any,FR,25,LTE,Any,Any,Any,VAT Registration,Receipt,Any,Qualified,Qualified
+Any,FR,25,LTE,Any,Any,Any,VAT Registration,Restaurant bill,Any,Qualified,Qualified
+Any,FR,34,LTE,Any,Any,Any,VAT Registration,Toll Ticket,Exists,Qualified,Qualified
+Any,DE,31,LTE,Any,Any,Any,VAT Registration,Parking Ticket,Exists,Qualified,Qualified
+Any,DE,22,LTE,Any,Any,Any,VAT Registration,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,DE,22,LTE,Any,Any,Any,VAT Registration,Taxi Receipt,Exists,Qualified,Qualified
+Any,DE,25,LTE,Any,Any,Any,VAT Registration,Receipt,Exists,Qualified,Qualified
+Any,DE,25,LTE,Any,Any,Any,VAT Registration,Restaurant bill,Exists,Qualified,Qualified
+Any,DE,34,LTE,Any,Any,Any,VAT Registration,Toll Ticket,Exists,Qualified,Qualified
+Any,GR,31,LTE,Any,Any,Any,VAT Registration,Parking Ticket,Exists,Qualified,Qualified
+Any,GR,31,LTE,Any,Any,Any,VAT Registration,Receipt,Exists,Qualified,Qualified
+Any,IE,18,LTE,Any,Any,Any,VAT Registration,Fuel Receipt,Exists,Qualified,Qualified
+Any,IE,31,LTE,Any,Any,Any,VAT Registration,Parking Ticket,Exists,Qualified,Qualified
+Any,IE,31,LTE,Any,Any,Any,VAT Registration,Receipt,Exists,Qualified,Qualified
+Any,LV,18,LTE,Any,Any,Any,VAT Registration,Fuel Receipt,Exists,Qualified,Qualified
+Any,LV,31,LTE,Any,Any,Any,VAT Registration,Parking Ticket,Exists,Qualified,Qualified
+Any,LV,31,LTE,Any,Any,Any,VAT Registration,Receipt,Exists,Qualified,Qualified
+Any,LV,22,LTE,Any,Any,Any,VAT Registration,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,LV,22,LTE,Any,Any,Any,VAT Registration,Taxi Receipt,Exists,Qualified,Qualified
+Any,LV,34,LTE,Any,Any,Any,VAT Registration,Toll Ticket,Exists,Qualified,Qualified
+Any,LT,18,LTE,Any,Any,Any,VAT Registration,Fuel Receipt,Exists,Qualified,Qualified
+Any,LT,31,LTE,Any,Any,Any,VAT Registration,Parking Ticket,Exists,Qualified,Qualified
+Any,LT,22,LTE,Any,Any,Any,VAT Registration,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,LT,22,LTE,Any,Any,Any,VAT Registration,Taxi Receipt,Exists,Qualified,Qualified
+Any,LT,25,LTE,Any,Any,Any,VAT Registration,Receipt,Exists,Qualified,Qualified
+Any,LT,25,LTE,Any,Any,Any,VAT Registration,Restaurant bill,Exists,Qualified,Qualified
+Any,LU,18,LTE,Any,Any,Any,VAT Registration,Fuel Receipt,Exists,Qualified,Qualified
+Any,LU,31,LTE,Any,Any,Any,VAT Registration,Parking Ticket,Exists,Qualified,Qualified
+Any,LU,22,LTE,Any,Any,Any,VAT Registration,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,LU,22,LTE,Any,Any,Any,VAT Registration,Taxi Receipt,Exists,Qualified,Qualified
+Any,LU,25,LTE,Any,Any,Any,VAT Registration,Receipt,Exists,Qualified,Qualified
+Any,LU,25,LTE,Any,Any,Any,VAT Registration,Restaurant bill,Exists,Qualified,Qualified
+Any,LU,34,LTE,Any,Any,Any,VAT Registration,Toll Ticket,Exists,Qualified,Qualified
+Any,NL,18,LTE,Any,Any,Any,VAT Registration,Fuel Receipt,Exists,Qualified,Qualified
+Any,NL,31,LTE,Any,Any,Any,VAT Registration,Parking Ticket,Exists,Qualified,Qualified
+Any,NL,31,LTE,Any,Any,Any,VAT Registration,Receipt,Exists,Qualified,Qualified
+Any,NL,22,LTE,Any,Any,Any,VAT Registration,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,NL,22,LTE,Any,Any,Any,VAT Registration,Taxi Receipt,Exists,Qualified,Qualified
+Any,NL,34,LTE,Any,Any,Any,VAT Registration,Toll Ticket,Exists,Qualified,Qualified
+Any,NO,22,LTE,Any,Any,Any,VAT Registration,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,NO,22,LTE,Any,Any,Any,VAT Registration,Taxi Receipt,Exists,Qualified,Qualified
+Any,NO,34,LTE,Any,Any,Any,VAT Registration,Receipt,Exists,Qualified,Qualified
+Any,NO,34,LTE,Any,Any,Any,VAT Registration,Toll Ticket,Exists,Qualified,Qualified
+Any,PL,18,LTE,Any,Any,Any,VAT Registration,Fuel Receipt,Exists,Qualified,Qualified
+Any,PL,31,LTE,Any,Any,Any,VAT Registration,Parking Ticket,Exists,Qualified,Qualified
+Any,PL,31,LTE,Any,Any,Any,VAT Registration,Receipt,Exists,Qualified,Qualified
+Any,PL,22,LTE,Any,Any,Any,VAT Registration,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,PL,22,LTE,Any,Any,Any,VAT Registration,Taxi Receipt,Exists,Qualified,Qualified
+Any,PL,34,LTE,Any,Any,Any,VAT Registration,Toll Ticket,Exists,Qualified,Qualified
+Any,PT,18,LTE,Any,Any,Any,VAT Registration,Fuel Receipt,Exists,Qualified,Qualified
+Any,RO,18,LTE,Any,Any,Any,VAT Registration,Fuel Receipt,Exists,Qualified,Qualified
+Any,RO,31,LTE,Any,Any,Any,VAT Registration,Parking Ticket,Exists,Qualified,Qualified
+Any,RO,31,LTE,Any,Any,Any,VAT Registration,Receipt,Exists,Qualified,Qualified
+Any,RO,22,LTE,Any,Any,Any,VAT Registration,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,RO,22,LTE,Any,Any,Any,VAT Registration,Taxi Receipt,Exists,Qualified,Qualified
+Any,RO,34,LTE,Any,Any,Any,VAT Registration,Toll Ticket,Exists,Qualified,Qualified
+Any,SK,18,LTE,Any,Any,Any,VAT Registration,Fuel Receipt,Exists,Qualified,Qualified
+Any,SK,31,LTE,Any,Any,Any,VAT Registration,Parking Ticket,Exists,Qualified,Qualified
+Any,SK,31,LTE,Any,Any,Any,VAT Registration,Receipt,Exists,Qualified,Qualified
+Any,SK,22,LTE,Any,Any,Any,VAT Registration,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,SK,22,LTE,Any,Any,Any,VAT Registration,Taxi Receipt,Exists,Qualified,Qualified
+Any,SK,34,LTE,Any,Any,Any,VAT Registration,Toll Ticket,Exists,Qualified,Qualified
+Any,SI,31,LTE,Any,Any,Any,VAT Registration,Parking Ticket,Exists,Qualified,Qualified
+Any,SI,31,LTE,Any,Any,Any,VAT Registration,Receipt,Exists,Qualified,Qualified
+Any,SI,22,LTE,Any,Any,Any,VAT Registration,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,SI,22,LTE,Any,Any,Any,VAT Registration,Taxi Receipt,Exists,Qualified,Qualified
+Any,SE,18,LTE,Any,Any,Any,VAT Registration,Fuel Receipt,Exists,Qualified,Qualified
+Any,SE,31,LTE,Any,Any,Any,VAT Registration,Parking Ticket,Exists,Qualified,Qualified
+Any,SE,31,LTE,Any,Any,Any,VAT Registration,Receipt,Exists,Qualified,Qualified
+Any,SE,22,LTE,Any,Any,Any,VAT Registration,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,SE,22,LTE,Any,Any,Any,VAT Registration,Taxi Receipt,Exists,Qualified,Qualified
+Any,SE,34,LTE,Any,Any,Any,VAT Registration,Toll Ticket,Exists,Qualified,Qualified
+Any,CH,18,LTE,Any,Any,Any,VAT Registration,Fuel Receipt,Exists,Qualified,Qualified
+Any,CH,31,LTE,Any,Any,Any,VAT Registration,Parking Ticket,Exists,Qualified,Qualified
+Any,CH,22,LTE,Any,Any,Any,VAT Registration,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,CH,22,LTE,Any,Any,Any,VAT Registration,Taxi Receipt,Exists,Qualified,Qualified
+Any,CH,25,LTE,Any,Any,Any,VAT Registration,Receipt,Exists,Qualified,Qualified
+Any,CH,25,LTE,Any,Any,Any,VAT Registration,Restaurant bill,Exists,Qualified,Qualified
+Any,CH,34,LTE,Any,Any,Any,VAT Registration,Toll Ticket,Exists,Qualified,Qualified
+Any,GB,18,LTE,Any,Any,Any,VAT Registration,Fuel Receipt,Any,Qualified,Qualified
+Any,GB,31,LTE,Any,Any,Any,VAT Registration,Parking Ticket,Exists,Qualified,Qualified
+Any,GB,31,LTE,Any,Any,Any,VAT Registration,Receipt,Exists,Qualified,Qualified
+Any,GB,25,LTE,Any,Any,Any,VAT Registration,Receipt,Any,Qualified,Qualified
+Any,GB,25,LTE,Any,Any,Any,VAT Registration,Restaurant bill,Any,Qualified,Qualified
+Any,GB,34,LTE,Any,Any,Any,VAT Registration,Toll Ticket,Exists,Qualified,Qualified
+Any,AU,30,LTE,Any,Any,Any,Any,Receipt,Exists,Qualified,Qualified
+Any,AU,21,LTE,Any,Any,Any,Any,Credit Note,Exists,Qualified,Qualified
+Any,AU,21,LTE,Any,Any,Any,Any,Receipt,Exists,Qualified,Qualified
+Any,AU,18,LTE,Any,Any,Any,Any,Fuel Receipt,Exists,Qualified,Qualified
+Any,AU,27,LTE,Any,Any,Any,Any,Credit Note,Exists,Qualified,Qualified
+Any,AU,27,LTE,Any,Any,Any,Any,Receipt,Exists,Qualified,Qualified
+Any,AU,31,LTE,Any,Any,Any,Any,Parking Ticket,Exists,Qualified,Qualified
+Any,AU,31,LTE,Any,Any,Any,Any,Receipt,Exists,Qualified,Qualified
+Any,AU,22,LTE,Any,Any,Any,Any,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,AU,22,LTE,Any,Any,Any,Any,Taxi receipt,Exists,Qualified,Qualified
+Any,AU,25,LTE,Any,Any,Any,Any,Receipt,Exists,Qualified,Qualified
+Any,AU,25,LTE,Any,Any,Any,Any,Restaurant bill,Exists,Qualified,Qualified
+Any,AU,34,LTE,Any,Any,Any,Any,Receipt,Exists,Qualified,Qualified
+Any,AU,34,LTE,Any,Any,Any,Any,Toll Ticket,Exists,Qualified,Qualified
+Any,RS,30,LTE,Any,Any,Any,Any,Receipt,Exists,Qualified,Qualified
+Any,RS,21,LTE,Any,Any,Any,Any,Credit Note,Exists,Qualified,Qualified
+Any,RS,21,LTE,Any,Any,Any,Any,Receipt,Exists,Qualified,Qualified
+Any,RS,18,LTE,Any,Any,Any,Any,Fuel Receipt,Exists,Qualified,Qualified
+Any,RS,27,LTE,Any,Any,Any,Any,Credit Note,Exists,Qualified,Qualified
+Any,RS,27,LTE,Any,Any,Any,Any,Receipt,Exists,Qualified,Qualified
+Any,RS,31,LTE,Any,Any,Any,Any,Parking Ticket,Exists,Qualified,Qualified
+Any,RS,31,LTE,Any,Any,Any,Any,Receipt,Exists,Qualified,Qualified
+Any,RS,34,LTE,Any,Any,Any,Any,Receipt,Exists,Qualified,Qualified
+Any,RS,34,LTE,Any,Any,Any,Any,Toll Ticket,Exists,Qualified,Qualified
+Any,TR,30,LTE,Any,Any,Any,Any,Receipt,Exists,Qualified,Qualified
+Any,TR,21,LTE,Any,Any,Any,Any,Credit Note,Exists,Qualified,Qualified
+Any,TR,21,LTE,Any,Any,Any,Any,Receipt,Exists,Qualified,Qualified
+Any,TR,18,LTE,Any,Any,Any,Any,Fuel Receipt,Exists,Qualified,Qualified
+Any,TR,27,LTE,Any,Any,Any,Any,Credit Note,Exists,Qualified,Qualified
+Any,TR,27,LTE,Any,Any,Any,Any,Receipt,Exists,Qualified,Qualified
+Any,TR,31,LTE,Any,Any,Any,Any,Parking Ticket,Exists,Qualified,Qualified
+Any,TR,31,LTE,Any,Any,Any,Any,Receipt,Exists,Qualified,Qualified
+Any,TR,22,LTE,Any,Any,Any,Any,Bus / Train Ticket,Exists,Qualified,Qualified
+Any,TR,22,LTE,Any,Any,Any,Any,Taxi receipt,Exists,Qualified,Qualified
+Any,TR,25,LTE,Any,Any,Any,Any,Receipt,Exists,Qualified,Qualified
+Any,TR,25,LTE,Any,Any,Any,Any,Restaurant bill,Exists,Qualified,Qualified
+Any,TR,34,LTE,Any,Any,Any,Any,Receipt,Exists,Qualified,Qualified
+Any,TR,34,LTE,Any,Any,Any,Any,Toll Ticket,Exists,Qualified,Qualified
+Any,FR,18,LTE,Any,Any,Any,D8,Fuel Receipt,Any,Qualified,Qualified
+Any,FR,25,LTE,Any,Any,Any,D8,Receipt,Any,Qualified,Qualified
+Any,FR,25,LTE,Any,Any,Any,D8,Restaurant bill,Any,Qualified,Qualified
+Any,GB,18,LTE,Any,Any,Any,D8,Fuel Receipt,Any,Qualified,Qualified
+Any,GB,25,LTE,Any,Any,Any,D8,Receipt,Any,Qualified,Qualified
+Any,GB,25,LTE,Any,Any,Any,D8,Restaurant bill,Any,Qualified,Qualified
